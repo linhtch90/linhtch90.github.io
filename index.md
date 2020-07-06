@@ -4,4 +4,6 @@ The purpose of this site is to share interest, ideas, projects and contributions
 
 linhtch90 is currently studying software development at Softtech - Aptech Danang.
 
+Have a good day, developers!
+
 
